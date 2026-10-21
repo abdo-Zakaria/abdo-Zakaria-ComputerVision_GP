@@ -1,0 +1,13 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Big data / models (لو عندك داتا أو موديلز ثقيلة استبعد فولدراتها)
+# datasets/
+# models/*.onnx
+# models/*.pth]
